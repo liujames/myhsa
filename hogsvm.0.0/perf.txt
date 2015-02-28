@@ -1,4 +1,0 @@
-Performance Analysis : 
-compute_hog() : 1.16005 s.
-compute_hog() : 0.596485 s.
-train_svm() : 72.1372 s.
